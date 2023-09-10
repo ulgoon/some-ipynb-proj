@@ -8,6 +8,9 @@ packages = [{include = "some_ipynb_proj"}]
 
 [tool.poetry.dependencies]
 python = "^3.11"
+jupyter = "^1.0.0"
+requests = "^2.31.0"
+pillow = "^10.0.0"
 
 
 [build-system]
